@@ -88,6 +88,11 @@ body {
     margin-top: 35px;
     margin-bottom: 0px;
 }
+.shop-link {
+    color: #007185; /* Colore blu per il link */
+    text-decoration: none;
+    font-weight: bold;
+}
 
 .imgorizzontaleShopNow{
     margin-left: 26px;
